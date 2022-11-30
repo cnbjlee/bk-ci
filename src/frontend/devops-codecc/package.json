@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@blueking/log": "^1.0.3",
-    "bk-magic-vue": "2.2.1",
+    "bk-magic-vue": "2.5.2",
     "axios": "^0.21.1",
     "brace": "^0.10.0",
     "codemirror": "^5.45.0",
